@@ -15,26 +15,26 @@
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner banner-slider-inner text-center">
             <div class="carousel-item banner-max-height active item-bg">
-                <img class="d-block w-100 h-100" src="{% static 'img/car-1.jpg' %}" alt="banner">
+                <img class="d-block w-100 h-100" src="{% static 'img/car-10.jpg' %}" alt="banner">
                 <div class="carousel-content container banner-info-2 bi-2 text-left">
 
-                    <h3>Wow Factor Standard</h3>
+                    <h3>De Facto Standard</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
                         free approach in finding your dream car.</h5>
+                    <a href="{% url 'services' %}" class="btn btn-lg btn-theme">Read more</a>
+                </div>
+            </div>
+            <div class="carousel-item banner-max-height item-bg">
+                <img class="d-block w-100 h-100" src="{% static 'img/car-6.jpg' %}" alt="banner">
+                <div class="carousel-content container banner-info-2 bi-2 text-left">
+                    <h3>Explore Your Dream Car</h3>
+                    <h5>Immersive experience, ease of access, hassle free<br>
+                        approach in finding your dream car.</h5>
                     <a href="{% url 'services' %}" class="btn btn-lg btn-theme">Read more</a>
                 </div>
             </div>
             <div class="carousel-item banner-max-height item-bg">
                 <img class="d-block w-100 h-100" src="{% static 'img/car-2.jpg' %}" alt="banner">
-                <div class="carousel-content container banner-info-2 bi-2 text-left">
-                    <h3>Explore Your Dream Car</h3>
-                    <h5>Allow us to guide you through the innovative stress<br>
-                        free approach in finding your dream car.</h5>
-                    <a href="{% url 'services' %}" class="btn btn-lg btn-theme">Read more</a>
-                </div>
-            </div>
-            <div class="carousel-item banner-max-height item-bg">
-                <img class="d-block w-100 h-100" src="{% static 'img/car-3.jpg' %}" alt="banner">
                 <div class="carousel-content container banner-info-2 bi-2 text-left">
                     <h3>We Are Wheel</h3>
                     <h5>Allow us to guide you through the innovative stress<br>
@@ -84,7 +84,7 @@
                 </div>
                 <div class="range-slider clearfix">
                                 <label>Price</label>
-                                <div data-min="0" data-max="150000"  data-min-name="min_price" data-max-name="max_price" data-unit="USD" class="range-slider-ui ui-slider" aria-disabled="false"></div>
+                                <div data-min="0" data-max="950000000"  data-min-name="min_price" data-max-name="max_price" data-unit="INR" class="range-slider-ui ui-slider" aria-disabled="false"></div>
                                 <div class="clearfix"></div>
                             </div>
                 <div class="form-group">
@@ -117,7 +117,7 @@
         <!-- Main title -->
         <div class="main-title">
             <h1>Featured <span>Cars</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Check out some of our top of the line cars.</p>
         </div>
         <!-- Slick slider area start -->
         <div class="slick-slider-area clearfix">
@@ -129,7 +129,7 @@
                             <a href="{% url 'car_detail' car.id %}" class="car-img">
                                 <div class="tag-2">Featured</div>
                                 <div class="price-box">
-                                    <span>${{car.price | intcomma}}</span>
+                                    <span>₹{{car.price | intcomma}}</span>
                                 </div>
                                 <img class="d-block w-100" src="{{car.car_photo.url}}" alt="car" style="min-height: 262px; max-height: 262px;">
                             </a>
@@ -208,7 +208,7 @@
         <!-- Main title -->
         <div class="main-title">
             <h1>Latest <span>Cars</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Find the right car, which suits you and your needs.</p>
         </div>
         <div class="row">
           {% for car in all_cars %}
@@ -280,7 +280,7 @@
                             <p class="cartype">{{car.body_style}}</p>
                         </div>
                         <div class="pull-right">
-                            <p class="price">$ {{car.price | intcomma}}</p>
+                            <p class="price">₹ {{car.price | intcomma}}</p>
                         </div>
                     </div>
                 </div>
@@ -299,7 +299,7 @@
         <!-- Main title -->
         <div class="main-title">
             <h1>Executive <span>Team</span></h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+            <p>We solemly believe in transparency, and same goes for our expert employees!</p>
         </div>
         <!-- Slick slider area start -->
         <div class="slick-slider-area clearfix">
@@ -336,7 +336,7 @@
         <div class="row">
             <div class="col-lg-9 col-md-8 col-sm-12">
                 <div class="intro-text">
-                    <h3>Do You Have Questions ?</h3>
+                    <h3>Do You Have Any Queries ?</h3>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-12">
