@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -23,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h-t#)+2^0-w2vs-pzpqx)_yutsp=k%k($ndq1)tx&g+gkv+*rr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -63,6 +64,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'legendarymotorsport.urls'
@@ -89,16 +91,17 @@ WSGI_APPLICATION = 'legendarymotorsport.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'legendarymotorsport_db',
-        'USER': 'postgres',
-        'PASSWORD':'bitch',
-        'HOST': 'localhost',
-    }
-}
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql',
+#        'NAME': 'legendarymotorsport_db',
+#        'USER': 'postgres',
+#        'PASSWORD':'bitch',
+#        'HOST': 'localhost',
+#    }
+#}
 
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:bitch@localhost/legendarymotorsport_db')}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
@@ -160,3 +163,6 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'durgesh.sahu@science.christuniversity.in'
 EMAIL_HOST_PASSWORD = '48717551'
 EMAIL_USE_TLS = True
+
+# Whitenoise settings
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'

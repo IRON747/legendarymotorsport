@@ -1,0 +1,1623 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "TG",
+        "city": "Hyderabad",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Excelent",
+        "price": 989989,
+        "description": "<p>The <strong>Ferrari 488</strong> (Type F142M) is a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a> <a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a> produced by the Italian automobile manufacturer <a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the <a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a> <a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s <a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine <a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\"><em>Top Gear</em></a>, as well as becoming <em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a> <a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a> announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a> The 488 was succeeded by the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a> in February 2019.</p>",
+        "car_photo": "photos/2021/10/20/1902536891.jpg",
+        "car_photo_1": "photos/2021/10/20/1902536917.jpg",
+        "car_photo_2": "photos/2021/10/20/1902537043.jpg",
+        "car_photo_3": "photos/2021/10/20/1902537077.jpg",
+        "car_photo_4": "photos/2021/10/20/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,ParkAssist,Power Steering,Reversing Camera,Wind Deflector,Bluetooth Handset",
+        "body_style": "Supersport",
+        "engine": "V8 Turbo",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 699,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "GB745756",
+        "milage": 18,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-10-20T23:16:17"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "RJ",
+        "city": "Jaipur",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Good",
+        "price": 779800,
+        "description": "<p>The <strong>Ford Edge</strong> is a range of <a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a> manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a> marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the <a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the <a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a> and the <a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a> within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the <a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the <a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a> (since 2019, the Lincoln Nautilus); the first generation was also produced as the <a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by <a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>",
+        "car_photo": "photos/2021/10/20/1901478607.jpg",
+        "car_photo_1": "photos/2021/10/20/1901478618.jpg",
+        "car_photo_2": "photos/2021/10/20/1901478646.jpg",
+        "car_photo_3": "photos/2021/10/20/1901478672.jpg",
+        "car_photo_4": "photos/2021/10/20/1901478687.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering",
+        "body_style": "SUV",
+        "engine": "480 cc",
+        "transmission": "Manual",
+        "interior": "Black",
+        "miles": 54,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "GE87CS57685",
+        "milage": 15,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-10-20T23:35:05"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "GA",
+        "city": "Panaji",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 85740,
+        "description": "<p>he <strong>Ford Super Duty</strong> (short for F-Series Super Duty) is a series of trucks manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced in 1998 for the 1999 model year (the 1998 model year was skipped), the F-Series Super Duty trucks marked the addition of a heavy-duty pickup to the <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a> range with the new versions of the F-250, F-350, and F-450 trucks, while the previous 1987&ndash;1997 F-Super Duty <a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a> were replaced by the F-450 chassis cab and F-550 Super Duty.</p>\r\n\r\n<p>The Super Duty trucks use a distinct chassis from the lighter <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/F-150\" title=\"F-150\">F-150</a>, with heavier-duty chassis and suspension components to allow for higher payload and towing capacities; additionally, the product line continued the use of <a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford PowerStroke</a> diesel engines. With a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a> over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">class 2 and 3</a> trucks, while chassis cab trucks are class 4 and class 5. The F-Series Super Duty has been used as the base chassis of the <a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a> full-sized SUV.</p>",
+        "car_photo": "photos/2021/10/21/1894300905.jpg",
+        "car_photo_1": "photos/2021/10/21/1894300894.jpg",
+        "car_photo_2": "photos/2021/10/21/1894300920.jpg",
+        "car_photo_3": "photos/2021/10/21/1900155012.jpg",
+        "car_photo_4": "photos/2021/10/21/1900155133.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Power Steering,Direct Fuel Injection",
+        "body_style": "Semi-Truck",
+        "engine": "250 cc",
+        "transmission": "Manual",
+        "interior": "Matt",
+        "miles": 773,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WKS4MCD0EF",
+        "milage": 17,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-10-21T10:02:31"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "CT",
+        "city": "Raipur",
+        "color": "Green",
+        "model": "2017",
+        "year": 2017,
+        "condition": "Used",
+        "price": 78940,
+        "description": "<p>The <strong>Jaguar F-Pace</strong> (X761) is a compact SUV made by <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their <a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the <a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a> in Detroit, with sales commencing in 2016 following an unveiling at the <a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a> in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a> The design of the F-Pace is based on the 2013 <a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a> concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a> The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the <a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "photos/2021/10/21/1902932542.jpg",
+        "car_photo_1": "photos/2021/10/21/1902932503.jpg",
+        "car_photo_2": "photos/2021/10/21/1902932514.jpg",
+        "car_photo_3": "photos/2021/10/21/1902932528.jpg",
+        "car_photo_4": "",
+        "features": "Audio Interface,Air Conditioning,Reversing Camera,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "240 cc",
+        "transmission": "Automatic",
+        "interior": "Matte",
+        "miles": 69800,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "W4645ASDASER8",
+        "milage": 18,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2021-10-21T13:36:18"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "KA",
+        "city": "Bangalore",
+        "color": "White",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 8975211,
+        "description": "<p>The 2018 Toyota 4Runner ranks toward the bottom of the midsize SUV class. It has a strong engine, excellent off-road performance, and a good predicted reliability rating, but that&#39;s not enough to offset the SUV&rsquo;s mediocre safety scores, low-grade interior, and so-so handling on pavement.</p>",
+        "car_photo": "photos/2021/10/21/1893633875.jpg",
+        "car_photo_1": "photos/2021/10/21/1893633879.jpg",
+        "car_photo_2": "photos/2021/10/21/1893633884.jpg",
+        "car_photo_3": "photos/2021/10/21/1896836883.jpg",
+        "car_photo_4": "photos/2021/10/21/1896836887.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Power Steering,Reversing Camera",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 7874,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "IJIOI465SD54SD",
+        "milage": 18,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2021-10-21T13:51:31"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Durgesh",
+        "last_name": "Kumar Sahu",
+        "designation": "Project Manager",
+        "photo": "photos/2021/11/24/image2.jpg",
+        "facebook_link": "http://fb.com",
+        "twitter_link": "https://twitter.com/?lang=en",
+        "linkedin_link": "http://linkedin.com",
+        "created_date": "2021-09-17T22:07:45.828"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Ansh",
+        "last_name": "Tyagi",
+        "designation": "Frontend Engineer",
+        "photo": "photos/2021/09/17/ansh.jpg",
+        "facebook_link": "http://fb.com",
+        "twitter_link": "https://twitter.com/?lang=en",
+        "linkedin_link": "http://linkedin.com",
+        "created_date": "2021-09-17T22:08:32.140"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Dipanshu",
+        "last_name": "Vaibhav",
+        "designation": "Backend Engineer",
+        "photo": "photos/2021/09/17/dipanshu.jpg",
+        "facebook_link": "http://fb.com",
+        "twitter_link": "https://twitter.com/?lang=en",
+        "linkedin_link": "http://linkedin.com",
+        "created_date": "2021-09-17T22:09:21.254"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Sameer",
+        "last_name": "Taragi",
+        "designation": "Research Operations",
+        "photo": "photos/2021/09/17/sameer.jpg",
+        "facebook_link": "http://fb.com",
+        "twitter_link": "https://twitter.com/?lang=en",
+        "linkedin_link": "http://linkedin.com",
+        "created_date": "2021-09-17T22:10:02.330"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Durgesh",
+        "last_name": "Kumar",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Manchester",
+        "state": "Block",
+        "email": "dks@gmail.com",
+        "phone": "741855200",
+        "message": "Test message",
+        "user_id": 0,
+        "create_date": "2021-10-22T22:42:14.155"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Durgesh",
+        "last_name": "Kumar",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Oklohama",
+        "state": "Ohio",
+        "email": "durgeshkumarsahu0101@gmail.com",
+        "phone": "",
+        "message": "Test 1",
+        "user_id": 1,
+        "create_date": "2021-10-22T22:53:37.411"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "DURGESH KUMAR SAHU",
+        "last_name": "1941020",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "State",
+        "state": "Sate2",
+        "email": "dks@gmail.com",
+        "phone": "74185200",
+        "message": "CIA DEMO",
+        "user_id": 5,
+        "create_date": "2021-10-23T09:20:40.111"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$TVlcnTsm1Loh$hpFIf6TCc7psOYEMWr3UAlLjCV45MeSjNugajF0Z50Q=",
+        "last_login": "2021-11-24T00:28:52.567",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Durgesh",
+        "last_name": "Kumar",
+        "email": "durgeshkumarsahu0101@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-09-17T20:26:50",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!N6FF0wxUstIjgpeQRHiUhLJd56blm7Tw4LGIFSFU",
+        "last_login": "2021-10-22T15:31:04.364",
+        "is_superuser": false,
+        "username": "durgesh",
+        "first_name": "Durgesh",
+        "last_name": "Kumar",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-22T15:19:36.444",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!PsCwsLieNxnRItVsJ4NPueueDccYn60D57ruuaW4",
+        "last_login": "2021-10-22T23:55:13.806",
+        "is_superuser": false,
+        "username": "durgesh_kumar",
+        "first_name": "Durgesh Kumar",
+        "last_name": "Sahu",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-22T15:46:23.361",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$vKgrhfohzGr8$cqjmIzOPCmKOhKuaZpEiC3xwyw+j1RK3ONWTUlHOFkM=",
+        "last_login": "2021-10-22T23:05:27",
+        "is_superuser": false,
+        "username": "dipanshu",
+        "first_name": "Dipanshu",
+        "last_name": "Vaibhav",
+        "email": "dipansh@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-10-22T23:01:25",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!sVCWyrnTtf9sDTeaX5rsRncIRS68fBq0Yb94bx30",
+        "last_login": "2021-11-08T14:23:42.509",
+        "is_superuser": false,
+        "username": "durgesh_kumar_sahu",
+        "first_name": "DURGESH KUMAR SAHU",
+        "last_name": "1941020",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-10-22T23:30:08.532",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "0jfs8h78ro50ehbpar7nhw0ugtgk9q60",
+    "fields": {
+        "session_data": "NDMzYTYwODZjMDc3MWZkNDcwOGEzYWM3ZDQ0YTJmNmNmYzU5NzdmYjp7Il9hdXRoX3VzZXJfaWQiOiI1IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI5ZjNiYmIzMmUxNmUxMGE3MmFmZTQ4ZjZiYzMxZmNhNzZmNmMyZmYzIn0=",
+        "expire_date": "2021-11-22T14:23:42.516"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "3g6d6fk2h7f93tltj3ikaw62gtgo2f82",
+    "fields": {
+        "session_data": "Yjk1N2MxY2QyMzQ0ZGJkN2ZiZDQyZmVkNGJlZmJkZDZjMjdhY2YyZTp7InNvY2lhbGFjY291bnRfc3RhdGUiOlt7InByb2Nlc3MiOiJsb2dpbiIsInNjb3BlIjoiIiwiYXV0aF9wYXJhbXMiOiIifSwiSHFyQ01lRWV3RjhRIl19",
+        "expire_date": "2021-11-27T10:43:34.751"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4ef9t0256947c8q9in18alt35x8c4tqz",
+    "fields": {
+        "session_data": "ZmEyYjAzNzE3YzY5NWMzZGI0ZmY0Zjk2MjYxY2EyZmUzMDJkYTllZTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJiNTNhMGU4NTJhNTFlOTQyZDM0MmIzYjI1N2E2Y2QyYzhiYjkxMWM5In0=",
+        "expire_date": "2021-11-05T23:55:13.817"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5gmirtouwu8txv2aauhn93f8su5au04h",
+    "fields": {
+        "session_data": "ZTVkZjEyYzhjNjE3MjdmNmRlMDg4Y2VmYWM0MDZmY2NiNDllNWUyZTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI0MjVhNWQyMDdiMmZiMTI5NTNkNDAzNzFmNDVhOWVlZWUxZWVhMDUyIn0=",
+        "expire_date": "2021-10-01T20:28:22.706"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8zuyvyy7tonztycwosx31wjmt6baof9z",
+    "fields": {
+        "session_data": "ZTVkZjEyYzhjNjE3MjdmNmRlMDg4Y2VmYWM0MDZmY2NiNDllNWUyZTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI0MjVhNWQyMDdiMmZiMTI5NTNkNDAzNzFmNDVhOWVlZWUxZWVhMDUyIn0=",
+        "expire_date": "2021-11-05T23:05:01.596"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "a1t01roh5cggslwgv1i9vvjum8gehn6h",
+    "fields": {
+        "session_data": "NDMzYTYwODZjMDc3MWZkNDcwOGEzYWM3ZDQ0YTJmNmNmYzU5NzdmYjp7Il9hdXRoX3VzZXJfaWQiOiI1IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI5ZjNiYmIzMmUxNmUxMGE3MmFmZTQ4ZjZiYzMxZmNhNzZmNmMyZmYzIn0=",
+        "expire_date": "2021-11-06T09:09:13.935"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "doijesyuhzajmlylf7ctoez75u6igcuu",
+    "fields": {
+        "session_data": "N2UzMDRjZjc1MTZjODI5MmYzYTg3YWE1MmFjMzM5MmQzOGM4MTQ0Zjp7ImFjY291bnRfdmVyaWZpZWRfZW1haWwiOm51bGwsImFjY291bnRfdXNlciI6IjMiLCJfYXV0aF91c2VyX2lkIjoiMyIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImRqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kIiwiX2F1dGhfdXNlcl9oYXNoIjoiYjUzYTBlODUyYTUxZTk0MmQzNDJiM2IyNTdhNmNkMmM4YmI5MTFjOSJ9",
+        "expire_date": "2021-11-05T15:46:23.397"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "enyopw5rcv9o5fbjdm2ghlxx254chnbu",
+    "fields": {
+        "session_data": "ZTVkZjEyYzhjNjE3MjdmNmRlMDg4Y2VmYWM0MDZmY2NiNDllNWUyZTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI0MjVhNWQyMDdiMmZiMTI5NTNkNDAzNzFmNDVhOWVlZWUxZWVhMDUyIn0=",
+        "expire_date": "2021-11-26T22:10:42.905"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "o5rmnseisju2onmruoquybzjb7t0hjni",
+    "fields": {
+        "session_data": "ZTVkZjEyYzhjNjE3MjdmNmRlMDg4Y2VmYWM0MDZmY2NiNDllNWUyZTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI0MjVhNWQyMDdiMmZiMTI5NTNkNDAzNzFmNDVhOWVlZWUxZWVhMDUyIn0=",
+        "expire_date": "2021-11-06T08:16:02.104"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "uuryvrxcn7usztbkxsfqgzov07u3jwgh",
+    "fields": {
+        "session_data": "NDMzYTYwODZjMDc3MWZkNDcwOGEzYWM3ZDQ0YTJmNmNmYzU5NzdmYjp7Il9hdXRoX3VzZXJfaWQiOiI1IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI5ZjNiYmIzMmUxNmUxMGE3MmFmZTQ4ZjZiYzMxZmNhNzZmNmMyZmYzIn0=",
+        "expire_date": "2021-11-06T09:19:50.102"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "439802271086706",
+        "secret": "66b89146aeb7ae779179f9cfaeb65598",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google login",
+        "client_id": "581110370664-ctatcg0akr2spnmov30gith4ln4eci9g.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "durgesh"
+        ],
+        "provider": "facebook",
+        "uid": "1208952442943990",
+        "last_login": "2021-10-22T15:31:04.341",
+        "date_joined": "2021-10-22T15:19:36.466",
+        "extra_data": "{\"id\": \"1208952442943990\", \"name\": \"Durgesh Kumar\", \"first_name\": \"Durgesh\", \"last_name\": \"Kumar\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "durgesh_kumar"
+        ],
+        "provider": "google",
+        "uid": "117945090049643155212",
+        "last_login": "2021-10-22T23:55:13.751",
+        "date_joined": "2021-10-22T15:46:23.378",
+        "extra_data": "{\"id\": \"117945090049643155212\", \"name\": \"Durgesh Kumar Sahu\", \"given_name\": \"Durgesh Kumar\", \"family_name\": \"Sahu\", \"picture\": \"https://lh3.googleusercontent.com/a/AATXAJwHWc7XL1Aci1sKcDgvPab_pvVdq1pCuaSzWMHq=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "durgesh_kumar_sahu"
+        ],
+        "provider": "google",
+        "uid": "101242064275643700573",
+        "last_login": "2021-11-08T14:23:42.472",
+        "date_joined": "2021-10-22T23:30:08.563",
+        "extra_data": "{\"id\": \"101242064275643700573\", \"name\": \"DURGESH KUMAR SAHU 1941020\", \"given_name\": \"DURGESH KUMAR SAHU\", \"family_name\": \"1941020\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GgkpuzcmEGN-KFxk5vcNf0ib3Ay4tzoUTlmdtJqTA=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAAGPZC3IjuHIBACqEoan3jvWn0ULoNcNQPZBpBKbD4manxgrkeZCUX4Orpm1NCZAnp2cRQ5ZAfylRgZB5tt7oiqxX7V1oTwa37JecDlDShlFVBNkliWClgAGtvZBWfzeshXArOXVeBe9AXJiZB1cldgQfnuaAjjLZBEDmNkypmuacwHA6suCdyl6BePuT1RjOjAmxWOKQZCEhIB4WJBzQD05jnjyBc11ScrGoDcHsgZCjdN5gZDZD",
+        "token_secret": "",
+        "expires_at": "2021-12-21T15:19:33.998"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0ARrdaM88Xfjn8K0nNw1dXAnDiJSPXEq9LvGs0AKaGJkIa05o8JIH4JECbZ7b_m3mqDyhmBj70e0JuYcwoefKwaXmCg8sT0vO6DT5UjRotSFFBQuJxotAY6D1X_Eb2s_OBqx88QGXpYIUcR1M_kUlZ7xdabLU",
+        "token_secret": "",
+        "expires_at": "2021-10-23T00:55:11.802"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 3,
+    "fields": {
+        "app": 2,
+        "account": 3,
+        "token": "ya29.a0ARrdaM_y4Nf_7p0HL_9T5E36-FseI3mcRn9F0RnPBWMgLQRT24qkt48JIWjfAlBlNxWGQAXONPrjqX28EHHM5Jx8qSu4T7kL3yA_0o7gB6dOdy0rTdEDgc4l4LmfcuI9CLPbvrogmr_r91MQV9opjvPiF2IJ",
+        "token_secret": "",
+        "expires_at": "2021-11-08T15:23:41.105"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-09-17T20:29:21.443",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-09-17T20:59:13.304",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-09-17T21:07:01.231",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-09-17T21:10:45.773",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Durgesh",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-09-17T21:12:00.590",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Durgesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-09-17T22:01:31.891",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Durgesh",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-09-17T22:07:45.831",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Prof Johnny",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-09-17T22:08:32.143",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Dr Johnny",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-09-17T22:09:21.256",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Chief Johnny",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-09-17T22:10:02.332",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "SGT. Johnny",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-09-17T22:25:56.674",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-09-17T22:26:39.589",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ansh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-09-17T22:27:00.577",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Dipanshu",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-09-17T22:33:35.934",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Sameer",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-09-17T22:38:23.699",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-09-17T22:38:48.965",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ansh",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-09-17T22:39:03.490",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Dipanshu",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-09-17T22:39:07.924",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Sameer",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-09-18T10:24:23.489",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Rahul",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-09-30T21:26:35.577",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "8",
+        "object_repr": "Rahul",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-10-20T21:40:07.567",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "8",
+        "object_repr": "Rahul",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-10-20T21:40:07.579",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Rahul",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-10-20T23:19:07.650",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-10-20T23:38:35.047",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-10-21T10:06:17.916",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-10-21T10:12:49.085",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo\", \"Car photo 1\", \"Car photo 2\", \"Car photo 3\", \"Car photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-10-21T13:38:45.005",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-10-21T13:55:06.436",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-10-22T15:10:14.240",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-10-22T15:11:02.494",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-10-22T15:43:34.201",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-10-22T23:02:21.175",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "account",
+            "emailaddress"
+        ],
+        "object_id": "1",
+        "object_repr": "dipansh@gmail.com",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-10-22T23:03:20.816",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "account",
+            "emailaddress"
+        ],
+        "object_id": "1",
+        "object_repr": "dipansh@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Primary\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-10-22T23:05:18.974",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "account",
+            "emailaddress"
+        ],
+        "object_id": "1",
+        "object_repr": "dipansh@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-10-22T23:28:01.524",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Bugati",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2021-10-22T23:35:35.682",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Bugati",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2021-10-22T23:35:53.447",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2021-10-22T23:36:02.851",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2021-10-23T08:16:19.604",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Bugati",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2021-10-23T08:18:08.522",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\", \"Description\", \"Engine\", \"Transmission\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2021-10-23T08:18:37.612",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\", \"Body style\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2021-10-23T08:46:13.634",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Body style\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2021-10-23T09:12:44.778",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "dipanshu",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2021-10-23T09:45:41.944",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "asd@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2021-10-23T09:45:41.954",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "dks@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2021-11-12T22:11:16.766",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2021-11-13T12:01:13.962",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2021-11-13T12:03:00.624",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2021-11-13T12:03:33.646",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Sameer",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2021-11-13T12:03:38.678",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Dipanshu",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2021-11-13T12:03:44.552",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ansh",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2021-11-24T00:10:13.193",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Durgesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2021-11-24T00:10:17.778",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Ansh",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2021-11-24T00:10:20.450",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Dipanshu",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2021-11-24T00:10:22.797",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Sameer",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2021-11-24T00:32:57.357",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\", \"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2021-11-24T00:33:35.714",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2021-11-24T00:35:18.418",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\", \"Price\", \"Description\", \"Vin no\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2021-11-24T00:36:10.057",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\", \"Price\"]}}]"
+    }
+}
+]
