@@ -26,7 +26,7 @@ SECRET_KEY = 'h-t#)+2^0-w2vs-pzpqx)_yutsp=k%k($ndq1)tx&g+gkv+*rr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['legendarymotorsport.herokuapp.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
