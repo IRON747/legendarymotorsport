@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h-t#)+2^0-w2vs-pzpqx)_yutsp=k%k($ndq1)tx&g+gkv+*rr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['legendarymotorsport.herokuapp.com']
 
